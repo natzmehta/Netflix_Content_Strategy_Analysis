@@ -56,6 +56,8 @@ Below is the overview page from the Tableau dashboard with a deeper analysis inc
 <br><br>
 
 Insights Deep Dive:
+
+
 Content Strategy - 
 
 - Netflix's content catalog shows a clear split: 65% movies versus 35% TV shows. This distribution largely stems from historical production patterns, where movies dominated the entertainment industry (Movies have 35% more IMDB votes compared to TV shows) for decades before TV shows gained comparable production volume in the early 2000s
