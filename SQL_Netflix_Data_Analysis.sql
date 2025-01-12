@@ -62,7 +62,7 @@ ORDER BY decade;
 
 --Query7
 -- What were the average IMDB and TMDB scores for each production country?
-SELECT DISTINCT production_countries, 
+SELECT production_countries, 
 ROUND(AVG(imdb_score),2) AS avg_imdb_score,
 ROUND(AVG(tmdb_score),2) AS avg_tmdb_score
 FROM shows_movies.titles
@@ -71,7 +71,7 @@ ORDER BY avg_imdb_score DESC
 
 --Query8
 -- What were the average IMDB and TMDB scores for each age certification for shows and movies?
-SELECT DISTINCT age_certification, 
+SELECT age_certification, 
 ROUND(AVG(imdb_score),2) AS avg_imdb_score,
 ROUND(AVG(tmdb_score),2) AS avg_tmdb_score
 FROM shows_movies.titles
