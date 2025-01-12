@@ -1,4 +1,4 @@
-# Netflix_Content_Strategy_Analysis
+# Netflix Content Strategy Analysis
 
 **Background & Overview**
 
