@@ -63,9 +63,11 @@ Content Strategy -
 - Documentaries boast the highest average IMDb score of 6.9, while Rom-Coms have the lowest at 5.9. Although Comedy has the highest number of titles, it maintains a relatively lower score. Meanwhile, Drama-Comedy achieves a strong average score of 6.95 but with only 109 titles, offering valuable insights into where production resources could be strategically allocated
 - Both movies and TV shows exhibit a positive correlation between runtime and IMDb scores. Although TV shows generally outperform movies in average IMDb ratings, movies remain the more popular choice, garnering a total of 91 million IMDb votes
 
-<br><br>
+
 
 ![image](https://github.com/user-attachments/assets/6ed0a0cf-46cf-436a-9351-12bfb6b085a5) 
+
+<br><br>
 
 Geographical Analysis - 
 
@@ -80,7 +82,8 @@ Quality metrics -
 - Higher IMDb scores (7.5-10.0) demonstrate a strong correlation with increased TMDb popularity, indicating that quality content significantly drives viewer engagement.
 - The majority of content clusters between IMDb scores of 5.0-8.0, with significantly fewer titles at the extreme high or low ends of the rating spectrum
 
-![image](https://github.com/user-attachments/assets/d21e23b4-a346-40ce-adf0-5019f4564a7c)
+![image](https://github.com/user-attachments/assets/40ea7af2-0256-4101-8363-20a54cfa21e5)
+
 
 <br><br>
 
