@@ -45,7 +45,7 @@ LIMIT 10
 
 --Query5
 -- What were the average IMDB and TMDB scores for shows and movies? 
-SELECT DISTINCT type, 
+SELECT type, 
 ROUND(AVG(imdb_score),2) AS avg_imdb_score,
 ROUND(AVG(tmdb_score),2) as avg_tmdb_score
 FROM shows_movies.titles
