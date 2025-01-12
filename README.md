@@ -23,7 +23,7 @@ Insights and recommendations are provided on the following key areas:
 
 The analysis is based on Netflix's content catalog data of releases from 1945 - 2022, examining movies and TV shows across multiple decades, with particular focus on viewer ratings, engagement metrics, and content characteristics.
 
-Before beginning the analysis, several quality control measures were implemented, details can be found in the Titles.xlsx file  The SQL queries used to prepare the data for the dashboard as well as the targeted SQL queries regarding various business questions can be found here.
+Before beginning the analysis, several quality control measures were implemented, details can be found in the Titles.xlsx file  The SQL queries used to prepare the data for the dashboard as well as the targeted SQL queries regarding various business questions can be found here(https://github.com/natzmehta/Netflix_Content_Strategy_Analysis/blob/main/SQL_Netflix_Data_Analysis.sql).
 
 
 <br><br>
